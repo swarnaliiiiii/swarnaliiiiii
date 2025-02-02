@@ -23,7 +23,7 @@ To-Do App: A sleek productivity tool built with Flutter and firebase.
 **🛠️ Tech Stack**
 
 **Languages:**
-Java, Python, JavaScript, Dart, C++
+Java, Python, Dart, C++
 
 **Frontend:**
 React.js, Flutter, HTML, CSS
