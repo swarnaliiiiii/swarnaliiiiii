@@ -1,39 +1,72 @@
-**👋 Hi there! I'm Swarnali Bhattacharyya**
+# Hi, I'm **Swarnali Bhattacharyya**
 
-🚀 About Me
-I’m a passionate Software Developer and Tech Enthusiast currently pursuing M.Tech and exploring cutting-edge technologies like AI/ML, IoT, and Full-Stack Development. My goal is to leverage my skills to create innovative solutions that make an impact.
+I’m a Software Developer passionate about **AI/ML, backend engineering, system design, and building intelligent real-world applications**.
+I love turning ideas into polished, production-ready systems — whether it's AI-powered automation, research-backed models, or scalable backend architectures.
 
-**🔭 What I'm Working On:**
+---
 
-Gr8ame: A dynamic team-based gaming platform using Spring Boot and React.
-SuCasa: An AI-powered interior design app using Flutter, TensorFlow, and OpenAI.
-Building an AI-Powered Job Matching Platform to connect talent with opportunities.
+## What I'm Working On
 
-**🌱 What I’m Learning:**
+### **jibly.ai (Desktop App)**
 
-Advanced System Design for scalable applications.
-Enhancing my skills in Cloud Computing with AWS and GCP.
+A revamped, always-available desktop assistant evolving from a Chrome extension.
+Uses NLP, scraping, and automated AI workflows to help users write better, work faster, and remove repetitive tasks.
 
-**💼 What I've Worked On:**
+### **Lokus – AI Travel Engine**
 
-IoT Super Extension Device: Automating appliances with ESP8266 and Arduino Cloud.
-Water Tax Management System: A Java-Spring Boot app for municipal services.
-To-Do App: A sleek productivity tool built with Flutter and firebase.
+AI-powered destination recommendation system that interprets budget, season, and preferences to tell users *exactly* where to go.
+Currently adding **real-time ticket booking** through automated agents.
 
-**🛠️ Tech Stack**
+### **Volatility Prediction Research**
 
-**Languages:**
-Java, Python, Dart, C++
+A quantitative finance project combining statistical modeling, ML, and visual analytics to predict market volatility.
+Actively expanding into a full research paper.
 
-**Frontend:**
-React.js, Flutter, HTML, CSS
+---
 
-**Backend:**
-Spring Boot, Flask
+##  What I'm Learning
 
-**Databases & Cloud:**
-MySQL, MongoDB, Firebase, GCP
+* Advanced system design & distributed architectures
+* Django + DRF at production scale
+* AWS + GCP cloud workflows
+* ML-driven quantitative research methods
+* AI orchestration inside mobile apps
 
-**🤝 Connect with Me**
+---
 
-Let’s collaborate and create something amazing together! Feel free to connect via LinkedIn or drop me an email at bswarnali78@gmail.com.
+## 💼 Recent Work
+
+### **Reqpedia – IT Intern**
+
+* Built urgency classification for aviation RFQs
+* Added Azure Blob-based certificate storage
+* Improved RFQ processing speed by 30%
+
+### **Gr8ame – Web Development Intern**
+
+* Built backend from scratch using Spring Boot + OAuth2
+* Improved platform performance by 30%
+* Automated CI/CD pipelines and deployments
+
+### **Indore Municipal Corporation – IT Intern**
+
+* Created a full-stack tax ticketing system for 10K+ internal staff
+* Reduced manual administrative workload by 50%
+
+---
+
+##  Tech Stack 
+
+**Languages:** Java, Python, JavaScript, Dart
+**Frameworks:** Spring Boot, Django, Flask, React, Flutter
+**Databases:** MySQL, MongoDB, PostgreSQL
+**Cloud & Tools:** Docker, Git/GitHub, Azure, Firebase, Supabase, Redis, Celery
+**Other:** OAuth2, REST APIs, Linux, Web Scraping
+**Soft Skills:** Communication, Teamwork, Problem Solving
+
+---
+
+##  Connect with Me
+
+I enjoy collaborating on **AI, backend systems, workflow automation**, and strange-but-interesting ideas.
+📫 Email: **[bswarnali78@gmail.com](mailto:bswarnali78@gmail.com)**
